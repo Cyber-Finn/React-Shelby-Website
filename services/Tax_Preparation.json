@@ -1,0 +1,58 @@
+{
+  "English": {
+    "s_title": "Taxes",
+    "s_name": "Tax Preparation",
+    "s_description": "Ensure your taxes are filed on time.",
+    "s_image_path": "./images/Taxes.jpg",
+    "s_details": "\r\nOur services ensure that your tax filings are accurate, compliant, and optimized, giving you peace of mind and potential savings.\r\n\r\nWe cater for both business and individual taxes."
+  },
+  "Spanish": {
+    "s_title": "Impuestos",
+    "s_name": "Preparación de Impuestos",
+    "s_description": "Asegúrate de que tus impuestos se presenten a tiempo.",
+    "s_image_path": "./images/Taxes.jpg",
+    "s_details": "\r\nNuestros servicios garantizan que tus declaraciones de impuestos sean precisas, cumplan con las normativas y estén optimizadas, brindándote tranquilidad y posibles ahorros.\r\n\r\nAtendemos tanto a empresas como a individuos."
+  },
+  "Italian": {
+    "s_title": "Tasse",
+    "s_name": "Preparazione delle Tasse",
+    "s_description": "Assicurati che le tue tasse siano presentate in tempo.",
+    "s_image_path": "./images/Taxes.jpg",
+    "s_details": "\r\nI nostri servizi assicurano che le tue dichiarazioni fiscali siano accurate, conformi e ottimizzate, offrendoti tranquillità e risparmi potenziali.\r\n\r\nCi occupiamo sia delle tasse aziendali che individuali."
+  },
+  "German": {
+    "s_title": "Steuern",
+    "s_name": "Steuervorbereitung",
+    "s_description": "Stellen Sie sicher, dass Ihre Steuern rechtzeitig eingereicht werden.",
+    "s_image_path": "./images/Taxes.jpg",
+    "s_details": "\r\nUnsere Dienstleistungen stellen sicher, dass Ihre Steuererklärungen genau, konform und optimiert sind, was Ihnen Seelenfrieden und mögliche Einsparungen bringt.\r\n\r\nWir kümmern uns um sowohl geschäftliche als auch individuelle Steuern."
+  },
+  "Afrikaans": {
+    "s_title": "Belastings",
+    "s_name": "Belasting Voorbereiding",
+    "s_description": "Verseker dat jou belasting betyds ingedien word.",
+    "s_image_path": "./images/Taxes.jpg",
+    "s_details": "\r\nOns dienste verseker dat jou belastingopgawes akkuraat, nakomend en geoptimaliseer is, wat jou gemoedsrus en moontlike besparings gee.\r\n\r\nOns hanteer beide besigheids- en individuele belastings."
+  },
+  "Xhosa": {
+    "s_title": "Irhafu",
+    "s_name": "Ulungiselelo lweRhafu",
+    "s_description": "Qinisekisa ukuba imirhumo yakho ifakwe ngexesha.",
+    "s_image_path": "./images/Taxes.jpg",
+    "s_details": "\r\nIinkonzo zethu ziqinisekisa ukuba amaxwebhu akho erhafu achanekile, ahambelana nemithetho kwaye aphuculiwe, akunika uxolo lwengqondo kunye nokonga okungahle kubekho.\r\n\r\nSibhekisa kuzo zombini iirhafu zesebhizinisi nezezabantu ngabanye."
+  },
+  "Zulu": {
+    "s_title": "Izintela",
+    "s_name": "Ukulungiselela Intela",
+    "s_description": "Qinisekisa ukuthi izintela zakho zifakwa ngesikhathi.",
+    "s_image_path": "./images/Taxes.jpg",
+    "s_details": "\r\nIzinsizakalo zethu ziqinisekisa ukuthi izitatimende zakho zentela zinembile, zihambisana nemithetho futhi zilungiselelwe kahle, zikunikeza ukuthula kwengqondo kanye nezinto zokonga ezingase zibe khona.\r\n\r\nSibhekana nezintela zebhizinisi nezentela zomuntu siqu."
+  },
+  "Hindi": {
+    "s_title": "कर",
+    "s_name": "कर तैयारी",
+    "s_description": "सुनिश्चित करें कि आपके कर समय पर भरे जाएं।",
+    "s_image_path": "./images/Taxes.jpg",
+    "s_details": "\r\nहमारी सेवाएं सुनिश्चित करती हैं कि आपके कर दाखिल सही, अनुपालनकारी और अनुकूलित हों, आपको मन की शांति और संभावित बचत देते हैं।\r\n\r\nहम दोनों व्यवसाय और व्यक्तिगत करों के लिए सेवा प्रदान करते हैं।"
+  }
+}

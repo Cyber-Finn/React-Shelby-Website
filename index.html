@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shelby Financial</title>
+  <script src="https://unpkg.com/react@17/umd/react.development.js"></script>
+  <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>
+  <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="./images/logos/Shelby_Small.png">
+</head>
+<body>
+  <div id="content"></div>
+
+  <script type="text/babel">
+    async function fetchTranslation(file) {
+      const response = await fetch(`./services/${file}`);
+      const data = await response.json();
+      
+      const userLang = navigator.language || navigator.userLanguage;
+      let langKey = 'English';
+      
+      if (userLang.includes('es')) {
+        langKey = 'Spanish';
+      }
+
+      return data[langKey];
+    }
+
+    function ServiceCard({ service, onClick }) {
+      return (
+        <div className="card" onClick={() => onClick(service)}>
+          <div className="image-container">
+            <img className="main-image" src={service.s_image_path} alt={service.s_name} />
+            <img className="overlay-image" src={`./images/overlay/${service.s_title}.png`} alt="3D Effect" />
+          </div>
+          <div className="card-content">
+            <h2>{service.s_name}</h2>
+            <p>{service.s_description}</p>
+          </div>
+        </div>
+      );
+    }
+
+    function Modal({ service, onClose }) {
+      const handleOutsideClick = (e) => {
+        if (e.target.classList.contains('modal')) {
+          onClose();
+        }
+      };
+
+      const renderServiceDetails = () => {
+        return service.s_details.split('\n').map((line, index) => (
+          <React.Fragment key={index}>
+            {line}
+            <br />
+          </React.Fragment>
+        ));
+      };
+
+      return (
+        <div className="modal" onClick={handleOutsideClick}>
+          <div className="modal-content">
+            <h2>{service.s_name}</h2>
+            <img src={service.s_image_path} alt={service.s_name} style={{ width: '100%' }} />
+            <div>{renderServiceDetails()}</div>
+          </div>
+        </div>
+      );
+    }
+
+    function App() {
+      const [services, setServices] = React.useState([]);
+      const [selectedService, setSelectedService] = React.useState(null);
+
+      React.useEffect(() => {
+        async function fetchData() {
+          const serviceFiles = [
+            'Accounting.json', 
+            'Bookkeeping.json',
+            'Financial_Planning.json', 
+            'Accounts_Payable.json', 
+            'Accounts_Receivable.json',
+            'Tax_Preparation.json',
+            'Employees.json'
+          ];
+          const loadedServices = await Promise.all(
+            serviceFiles.map(async file => {
+              const translations = await fetchTranslation(file);
+              return translations;
+            })
+          );
+          setServices(loadedServices);
+        }
+        fetchData();
+      }, []);
+
+      const handleServiceClick = (service) => {
+        setSelectedService(service);
+      };
+
+      const handleCloseModal = () => {
+        setSelectedService(null);
+      };
+
+      return (
+        <div>
+          <header id="header">
+            Shelby Financial
+          </header>
+          <div className="card-container">
+            {services.map((service, index) => (
+              <ServiceCard key={index} service={service} onClick={handleServiceClick} />
+            ))}
+          </div>
+          {selectedService && <Modal service={selectedService} onClose={handleCloseModal} />}
+          <footer className="footer">
+            &copy; 2024 Shelby Financial. All rights reserved. &reg;
+          </footer>
+        </div>
+      );
+    }
+
+    ReactDOM.render(<App />, document.getElementById('content'));
+  </script>
+</body>
+</html>

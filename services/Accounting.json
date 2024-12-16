@@ -1,0 +1,58 @@
+{
+  "English": {
+    "s_title": "Accounting",
+    "s_name": "Accounting Services",
+    "s_description": "Expert Accounting Services from our senior staff.",
+    "s_image_path": "./images/Accounting.jpg",
+    "s_details": "\r\nOur Services are designed to deliver precise and comprehensive financial management for your business.\r\nThis ensures that you remain compliant with regulations and financially sound.\r\n\r\nThese services include Financial Statement Preparation, Tax planning and compliance, General Ledger Management, Payroll services, etc."
+  },
+  "Spanish": {
+    "s_title": "Contabilidad",
+    "s_name": "Servicios de Contabilidad",
+    "s_description": "Servicios de contabilidad expertos de nuestro personal senior.",
+    "s_image_path": "./images/Accounting.jpg",
+    "s_details": "\r\nNuestros servicios están diseñados para ofrecer una gestión financiera precisa y completa para su negocio.\r\nEsto asegura que cumpla con las regulaciones y sea financieramente sólido.\r\n\r\nEstos servicios incluyen preparación de estados financieros, planificación y cumplimiento fiscal, gestión del libro mayor, servicios de nómina, etc."
+  },
+  "Italian": {
+    "s_title": "Contabilità",
+    "s_name": "Servizi di Contabilità",
+    "s_description": "Servizi di contabilità esperti dal nostro staff senior.",
+    "s_image_path": "./images/Accounting.jpg",
+    "s_details": "\r\nI nostri servizi sono progettati per offrire una gestione finanziaria precisa e completa per la tua azienda.\r\nQuesto assicura che tu rimanga conforme alle normative e finanziariamente solido.\r\n\r\nQuesti servizi includono Preparazione del Bilancio, Pianificazione e Conformità Fiscale, Gestione del Libro Mastro, Servizi di Pagamento Stipendi, ecc."
+  },
+  "German": {
+    "s_title": "Buchhaltung",
+    "s_name": "Buchhaltungsdienste",
+    "s_description": "Fachkundige Buchhaltungsdienste von unserem Seniorpersonal.",
+    "s_image_path": "./images/Accounting.jpg",
+    "s_details": "\r\nUnsere Dienstleistungen sind darauf ausgelegt, Ihrem Unternehmen eine präzise und umfassende Finanzverwaltung zu bieten.\r\nDies stellt sicher, dass Sie gesetzeskonform und finanziell gesund bleiben.\r\n\r\nDiese Dienstleistungen umfassen die Erstellung von Jahresabschlüssen, Steuerplanung und -einhaltung, Hauptbuchführung, Gehaltsabrechnungsdienste usw."
+  },
+  "Afrikaans": {
+    "s_title": "Rekeningkunde",
+    "s_name": "Rekeningkundige Dienste",
+    "s_description": "Kenners in Rekeningkundige Dienste van ons senior personeel.",
+    "s_image_path": "./images/Accounting.jpg",
+    "s_details": "\r\nOns dienste is ontwerp om noukeurige en omvattende finansiële bestuur vir u besigheid te lewer.\r\nDit verseker dat u aan regulasies voldoen en finansieel gesond bly.\r\n\r\nHierdie dienste sluit in die voorbereiding van finansiële state, belastingbeplanning en -nakoming, grootboekbestuur, betaalstaatdienste, ens."
+  },
+  "Xhosa": {
+    "s_title": "Ukugcinwa kweeAkhawunti",
+    "s_name": "Iinkonzo zoKuGcinwa kweeAkhawunti",
+    "s_description": "Iinkonzo zobuGcisa zoKuGcinwa kweeAkhawunti ezivela kubasebenzi bethu abaphezulu.",
+    "s_image_path": "./images/Accounting.jpg",
+    "s_details": "\r\nIinkonzo zethu ziyilelwe ukunika ulawulo oluchanekileyo nolupheleleyo lwezemali kwishishini lakho.\r\nOku kuqinisekisa ukuba uhlangabezana nemithetho kwaye usezimalini kakuhle.\r\n\r\nEzi nkonzo zibandakanya ukuLungiselela iiNgxelo zeMali, ukuCwangcisa kunye nokuHlalutya iRhafu, ulawulo lweGreat Ledger, iinkonzo zokuhlawula imivuzo, njl."
+  },
+  "Zulu": {
+    "s_title": "Ukubalwa kwezimali",
+    "s_name": "Izinsizakalo zokubalwa kwezimali",
+    "s_description": "Izinsizakalo zokubalwa kwezimali eziqavile ezivela kubasebenzi bethu abaphezulu.",
+    "s_image_path": "./images/Accounting.jpg",
+    "s_details": "\r\nIzinsizakalo zethu zakhelwe ukuhlinzeka ngobuphikiswa obuphakeme nokuphathwa kwezimali okuphelele kwebhizinisi lakho.\r\nLokhu kuqinisekisa ukuthi uyaqinisekisa ekulandeleni imithetho futhi usefinyelela ezimweni zezezimali eziphephile.\r\n\r\nLezi zinsizakalo zifaka phakathi ukuLungiselela Izitatimende zezimali, ukuHlola nokufuna ukungaguquki ekufakweni kwerhafu, Ukuphatha iGreat Ledger, izinsizakalo zokuhlawula imali, njll."
+  },
+  "Hindi": {
+    "s_title": "लेखा",
+    "s_name": "लेखांकन सेवाएँ",
+    "s_description": "हमारे वरिष्ठ कर्मचारियों से विशेषज्ञ लेखांकन सेवाएं।",
+    "s_image_path": "./images/Accounting.jpg",
+    "s_details": "\r\nहमारी सेवाएं आपके व्यवसाय के लिए सटीक और व्यापक वित्तीय प्रबंधन प्रदान करने के लिए डिज़ाइन की गई हैं।\r\nइससे यह सुनिश्चित होता है कि आप नियमों का पालन करते हैं और वित्तीय रूप से सुरक्षित रहते हैं।\r\n\r\nइन सेवाओं में वित्तीय वक्तव्यों की तैयारी, कर योजना और अनुपालन, मुख्य खाता प्रबंधन, पेरोल सेवाएं, आदि शामिल हैं।"
+  }
+}

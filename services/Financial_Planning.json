@@ -1,0 +1,58 @@
+{
+  "English": {
+    "s_title": "Planning",
+    "s_name": "Financial Planning",
+    "s_description": "Reach your financial goals.",
+    "s_image_path": "./images/Financial_advice.jpg",
+    "s_details": "\r\nOur services are designed to empower our partners to achieve their financial goals with precision and clarity.\r\nOur comprehensive approach encompasses detailed analysis and strategic planning to ensure your business's financial health and growth.\r\n\r\nThese services include Budgeting and Forecasting, Cash-flow Management and Risk Management."
+  },
+  "Spanish": {
+    "s_title": "Planificación",
+    "s_name": "Planificación Financiera",
+    "s_description": "Alcanza tus objetivos financieros.",
+    "s_image_path": "./images/Financial_advice.jpg",
+    "s_details": "\r\nNuestros servicios están diseñados para capacitar a nuestros socios para lograr sus objetivos financieros con precisión y claridad.\r\nNuestro enfoque integral abarca un análisis detallado y una planificación estratégica para garantizar la salud y el crecimiento financiero de su empresa.\r\n\r\nEstos servicios incluyen Presupuestación y Pronóstico, Gestión de Flujo de Caja y Gestión de Riesgos."
+  },
+  "Italian": {
+    "s_title": "Pianificazione",
+    "s_name": "Pianificazione Finanziaria",
+    "s_description": "Raggiungi i tuoi obiettivi finanziari.",
+    "s_image_path": "./images/Financial_advice.jpg",
+    "s_details": "\r\nI nostri servizi sono progettati per consentire ai nostri partner di raggiungere i loro obiettivi finanziari con precisione e chiarezza.\r\nIl nostro approccio completo include un'analisi dettagliata e una pianificazione strategica per garantire la salute finanziaria e la crescita della tua azienda.\r\n\r\nQuesti servizi includono Pianificazione e Previsioni, Gestione dei Flussi di Cassa e Gestione dei Rischi."
+  },
+  "German": {
+    "s_title": "Planung",
+    "s_name": "Finanzplanung",
+    "s_description": "Erreichen Sie Ihre finanziellen Ziele.",
+    "s_image_path": "./images/Financial_advice.jpg",
+    "s_details": "\r\nUnsere Dienstleistungen sind darauf ausgelegt, unsere Partner zu befähigen, ihre finanziellen Ziele mit Präzision und Klarheit zu erreichen.\r\nUnser umfassender Ansatz umfasst eine detaillierte Analyse und strategische Planung, um die finanzielle Gesundheit und das Wachstum Ihres Unternehmens sicherzustellen.\r\n\r\nDiese Dienstleistungen umfassen Budgetierung und Prognosen, Cashflow-Management und Risikomanagement."
+  },
+  "Afrikaans": {
+    "s_title": "Beplanning",
+    "s_name": "Finansiële Beplanning",
+    "s_description": "Bereik jou finansiële doelwitte.",
+    "s_image_path": "./images/Financial_advice.jpg",
+    "s_details": "\r\nOns dienste is ontwerp om ons vennote in staat te stel om hul finansiële doelwitte met presisie en duidelikheid te bereik.\r\nOns omvattende benadering omvat gedetailleerde analise en strategiese beplanning om die finansiële gesondheid en groei van jou besigheid te verseker.\r\n\r\nHierdie dienste sluit in Begroting en Vooruitskatting, Kontantvloei Bestuur en Risikobestuur."
+  },
+  "Xhosa": {
+    "s_title": "Ucwangciso",
+    "s_name": "Ucwangciso lwezeMali",
+    "s_description": "Fikelela kwiinjongo zakho zezeMali.",
+    "s_image_path": "./images/Financial_advice.jpg",
+    "s_details": "\r\nIinkonzo zethu zenzelwe ukunika amandla amaqabane ethu ukuba afikelele kwiinjongo zabo zezeMali ngokuchanekileyo kunye nokuqonda.\r\nIndlela yethu ebanzi ibandakanya uhlalutyo olucokisekileyo kunye nocwangciso olucwangcisiweyo ukuqinisekisa impilo yezemali kunye nokukhula kwebhizinisi lakho.\r\n\r\nEzi nkonzo ziquka ukubeka izicwangciso zeMali, ulawulo lokuhamba kweMali kunye nolawulo lweengozi."
+  },
+  "Zulu": {
+    "s_title": "Ukuhlela",
+    "s_name": "Ukuhlela Kwezezimali",
+    "s_description": "Finyelela izinhloso zakho zezimali.",
+    "s_image_path": "./images/Financial_advice.jpg",
+    "s_details": "\r\nIzinsizakalo zethu zakhelwe ukuvumela ozakwethu ukuthi bafinyelele izinhloso zabo zezimali ngokunemba nobuciko.\r\nIndlela yethu ebanzi ihlanganisa ukuhlaziywa okuningiliziwe nokuhlela okufanele ukuqinisekisa impilo yezimali kanye nokukhula kwebhizinisi lakho.\r\n\r\nLezi zinsizakalo zifaka phakathi ukuhlela kanye nokubikezela, ukuphathwa kokugeleza kwemali kanye nokuphathwa kwezingozi."
+  },
+  "Hindi": {
+    "s_title": "योजना",
+    "s_name": "वित्तीय योजना",
+    "s_description": "अपने वित्तीय लक्ष्यों तक पहुँचें।",
+    "s_image_path": "./images/Financial_advice.jpg",
+    "s_details": "\r\nहमारी सेवाएं हमारे भागीदारों को सटीकता और स्पष्टता के साथ उनके वित्तीय लक्ष्यों को प्राप्त करने के लिए सशक्त बनाने के लिए डिज़ाइन की गई हैं।\r\nहमारा व्यापक दृष्टिकोण आपकी व्यवसाय की वित्तीय स्वास्थ्य और विकास सुनिश्चित करने के लिए विस्तृत विश्लेषण और रणनीतिक योजना को सम्मिलित करता है।\r\n\r\nइन सेवाओं में बजट और पूर्वानुमान, नकद-प्रवाह प्रबंधन और जोखिम प्रबंधन शामिल हैं।"
+  }
+}

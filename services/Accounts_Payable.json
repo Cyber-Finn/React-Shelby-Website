@@ -1,0 +1,58 @@
+{
+  "English": {
+    "s_title": "Creditors",
+    "s_name": "Accounts Payable",
+    "s_description": "Ensuring your debts are paid on time.",
+    "s_image_path": "./images/Creditors.jpg",
+    "s_details": "\r\nOften referred to as \"Creditors\", these ledgers deal with entities that your business owes money to.\r\n\r\nOur services will streamline the management of your outgoing payments, ensuring that your financial obligations are met on time."
+  },
+  "Spanish": {
+    "s_title": "Acreedores",
+    "s_name": "Cuentas por Pagar",
+    "s_description": "Asegurando que tus deudas se paguen a tiempo.",
+    "s_image_path": "./images/Creditors.jpg",
+    "s_details": "\r\nA menudo referidos como \"Acreedores\", estos libros tratan con entidades a las que tu empresa debe dinero.\r\n\r\nNuestros servicios optimizarán la gestión de tus pagos salientes, asegurando que tus obligaciones financieras se cumplan a tiempo."
+  },
+  "Italian": {
+    "s_title": "Creditori",
+    "s_name": "Conti da Pagare",
+    "s_description": "Garantendo che i tuoi debiti siano pagati in tempo.",
+    "s_image_path": "./images/Creditors.jpg",
+    "s_details": "\r\nSpesso chiamati \"Creditori\", questi registri trattano con entità a cui la tua azienda deve dei soldi.\r\n\r\nI nostri servizi ottimizzeranno la gestione dei tuoi pagamenti in uscita, assicurando che i tuoi obblighi finanziari siano soddisfatti in tempo."
+  },
+  "German": {
+    "s_title": "Gläubiger",
+    "s_name": "Verbindlichkeiten",
+    "s_description": "Sicherstellen, dass Ihre Schulden rechtzeitig bezahlt werden.",
+    "s_image_path": "./images/Creditors.jpg",
+    "s_details": "\r\nOft als \"Gläubiger\" bezeichnet, befassen sich diese Konten mit Entitäten, denen Ihr Unternehmen Geld schuldet.\r\n\r\nUnsere Dienstleistungen rationalisieren die Verwaltung Ihrer ausgehenden Zahlungen und sorgen dafür, dass Ihre finanziellen Verpflichtungen rechtzeitig erfüllt werden."
+  },
+  "Afrikaans": {
+    "s_title": "Krediteure",
+    "s_name": "Te Betale Rekeninge",
+    "s_description": "Verseker dat jou skulde betyds betaal word.",
+    "s_image_path": "./images/Creditors.jpg",
+    "s_details": "\r\nDikwels na verwys as \"Krediteure\", hierdie ledgers hanteer entiteite wat jou besigheid geld skuld.\r\n\r\nOns dienste sal die bestuur van jou uitgaande betalings stroomlyn en verseker dat jou finansiële verpligtinge betyds nagekom word."
+  },
+  "Xhosa": {
+    "s_title": "Ababolekisi",
+    "s_name": "Iiakhawunti Eziyimfanelo",
+    "s_description": "Ukuqinisekisa ukuba amatyala akho ahlawulwa ngexesha.",
+    "s_image_path": "./images/Creditors.jpg",
+    "s_details": "\r\nAmazwe aboniswa njenge \"Ababolekisi\", la makhadi ajongene namashishini amatyalwa ngamashishini akho.\r\n\r\nIinkonzo zethu ziya kukhokela ulawulo lweentlawulo zakho eziphumayo, ukuqinisekisa ukuba izibophelelo zakho zemali zihlangatshelwa ngexesha."
+  },
+  "Zulu": {
+    "s_title": "Ababolekisi",
+    "s_name": "Izikweletu Eziyimbangela",
+    "s_description": "Ukuqinisekisa ukuthi izikweletu zakho zikhokhelwa ngesikhathi.",
+    "s_image_path": "./images/Creditors.jpg",
+    "s_details": "\r\nKuvame ukubizwa ngokuthi \"Ababolekisi\", lawa matha lakho ajongene nezikhungo ezikwaziyo ukuthi ibhizinisi lakho linamathisela.\r\n\r\nIzinsizakalo zethu zizolulama ukuphatha ukukhokhelwa kwezindleko zakho, kuqinisekisa ukuthi izibopho zakho zezimali zigcwaliseka ngesikhathi."
+  },
+  "Hindi": {
+    "s_title": "ऋणदाता",
+    "s_name": "भुगतान योग्य खाते",
+    "s_description": "सुनिश्चित करना कि आपके कर्ज समय पर चुकाए जाएं।",
+    "s_image_path": "./images/Creditors.jpg",
+    "s_details": "\r\nअक्सर \"ऋणदाता\" के रूप में संदर्भित, ये खाते उन संस्थाओं से संबंधित होते हैं जिन्हें आपका व्यवसाय पैसे का बकाया है।\r\n\r\nहमारी सेवाएं आपके आउटगोइंग भुगतानों के प्रबंधन को सुव्यवस्थित करेंगी, यह सुनिश्चित करते हुए कि आपकी वित्तीय प्रतिबद्धताएं समय पर पूरी हों।"
+  }
+}

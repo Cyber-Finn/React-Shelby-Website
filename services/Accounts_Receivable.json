@@ -1,0 +1,58 @@
+{
+  "English": {
+    "s_title": "Debtors",
+    "s_name": "Accounts Receivable",
+    "s_description": "Ensuring you get paid for services or goods rendered.",
+    "s_image_path": "./images/Debtors.jpg",
+    "s_details": "\r\nOften referred to as \"Debtors\", these ledgers deal with entities that owe money to your business.\r\n\r\nOur Services will streamline the management of your incoming payments, ensuring that your business maintains a healthy cash-flow and reduces the risk of unpaid invoices."
+  },
+  "Spanish": {
+    "s_title": "Deudores",
+    "s_name": "Cuentas por Cobrar",
+    "s_description": "Asegurando que recibas el pago por los servicios o bienes prestados.",
+    "s_image_path": "./images/Debtors.jpg",
+    "s_details": "\r\nA menudo referidos como \"Deudores\", estos libros tratan con entidades que deben dinero a tu negocio.\r\n\r\nNuestros servicios optimizarán la gestión de tus pagos entrantes, asegurando que tu negocio mantenga un flujo de caja saludable y reduzca el riesgo de facturas impagas."
+  },
+  "Italian": {
+    "s_title": "Debitori",
+    "s_name": "Conti da Ricevere",
+    "s_description": "Garantendo che tu venga pagato per i servizi o i beni resi.",
+    "s_image_path": "./images/Debtors.jpg",
+    "s_details": "\r\nSpesso chiamati \"Debitori\", questi registri trattano con entità che devono denaro alla tua azienda.\r\n\r\nI nostri servizi snelliranno la gestione dei tuoi pagamenti in entrata, garantendo che la tua azienda mantenga un flusso di cassa sano e riduca il rischio di fatture non pagate."
+  },
+  "German": {
+    "s_title": "Debitoren",
+    "s_name": "Forderungen",
+    "s_description": "Sicherstellen, dass Sie für erbrachte Dienstleistungen oder gelieferte Waren bezahlt werden.",
+    "s_image_path": "./images/Debtors.jpg",
+    "s_details": "\r\nOft als \"Debitoren\" bezeichnet, befassen sich diese Konten mit Entitäten, die Ihrem Unternehmen Geld schulden.\r\n\r\nUnsere Dienstleistungen rationalisieren die Verwaltung Ihrer eingehenden Zahlungen und sorgen dafür, dass Ihr Unternehmen einen gesunden Cashflow aufrechterhält und das Risiko unbezahlter Rechnungen minimiert."
+  },
+  "Afrikaans": {
+    "s_title": "Debiteure",
+    "s_name": "Debiteure",
+    "s_description": "Verseker dat jy betaal word vir dienste of goedere gelewer.",
+    "s_image_path": "./images/Debtors.jpg",
+    "s_details": "\r\nDikwels na verwys as \"Debiteure\", hierdie ledgers hanteer entiteite wat geld aan jou besigheid skuld.\r\n\r\nOns dienste sal die bestuur van jou inkomende betalings stroomlyn en verseker dat jou besigheid 'n gesonde kontantvloei handhaaf en die risiko van onbetaalde fakture verminder."
+  },
+  "Xhosa": {
+    "s_title": "Abatyala",
+    "s_name": "Iiakhawunti eziFunyenweyo",
+    "s_description": "Ukuqinisekisa ukuba uyabhatala ngenkonzo okanye iimpahla ezibonelelweyo.",
+    "s_image_path": "./images/Debtors.jpg",
+    "s_details": "\r\nAmazwe aboniswa njenge \"Abatyala\", la makhadi ajongene namashishini amatyalwa ngamashishini akho.\r\n\r\nIinkonzo zethu ziya kukhokela ulawulo lweentlawulo zakho ezingena, ukuqinisekisa ukuba ishishini lakho ligcina umjikelezo wengeniso ophilileyo kwaye kunciphisa umngcipheko we-invoyisi ezingahlawulwayo."
+  },
+  "Zulu": {
+    "s_title": "Abanikazi Bama-akhawunti",
+    "s_name": "Izikweletu Ezamukelayo",
+    "s_description": "Ukuqinisekisa ukuthi uthola inkokhelo yezinsizakalo noma izimpahla ezihlelelwe.",
+    "s_image_path": "./images/Debtors.jpg",
+    "s_details": "\r\nKuvame ukubizwa ngokuthi \"Abanikazi Bama-akhawunti\", lawa matha ajongene nezikhungo ezikwaziyo ukuthi ibhizinisi lakho lithole imali.\r\n\r\nIzinsizakalo zethu zizolulama ukuphatha ukukhokhelwa kwemali yakho engenayo, kuqinisekisa ukuthi ibhizinisi lakho liphila ngendlela ephilile kakhulu futhi linciphisa ubungozi bezikweletu ezingakhokhelwa."
+  },
+  "Hindi": {
+    "s_title": "ऋणी",
+    "s_name": "प्राप्त खाते",
+    "s_description": "यह सुनिश्चित करना कि आपको प्रदान की गई सेवाओं या वस्तुओं के लिए भुगतान किया जाए।",
+    "s_image_path": "./images/Debtors.jpg",
+    "s_details": "\r\nअक्सर \"ऋणी\" के रूप में संदर्भित, ये खाते उन संस्थाओं से संबंधित होते हैं जिनसे आपका व्यवसाय पैसे का बकाया है।\r\n\r\nहमारी सेवाएं आपके आने वाले भुगतानों के प्रबंधन को सुव्यवस्थित करेंगी, यह सुनिश्चित करते हुए कि आपका व्यवसाय स्वस्थ नकदी प्रवाह बनाए रखे और अनपेक्षित चालानों के जोखिम को कम करे।"
+  }
+}
