@@ -2,57 +2,57 @@
   "English": {
     "s_title": "Bookkeeping",
     "s_name": "Bookkeeping Services",
-    "s_description": "Accurate and timely bookkeeping services.",
-    "s_image_path": "./images/bookkeeping.jpg",
+    "s_description": "Accurate and timely Bookkeeping services.",
+    "s_image_path": "./images/Bookkeeping.jpg",
     "s_details": "\r\nOur services are designed to ensure that your financial records are meticulously maintained, accurate, and up-to-date.\r\nThereby freeing you to focus on growing your business.\r\n\r\nThese services include Financial Reporting, Invoicing, Expense Tracking and Account Reconciliations."
   },
   "Spanish": {
     "s_title": "Contabilidad",
     "s_name": "Servicios de Contabilidad",
     "s_description": "Servicios de contabilidad precisos y oportunos.",
-    "s_image_path": "./images/bookkeeping.jpg",
+    "s_image_path": "./images/Bookkeeping.jpg",
     "s_details": "\r\nNuestros servicios están diseñados para asegurar que tus registros financieros se mantengan meticulosamente, sean precisos y estén actualizados.\r\nDe esta manera, te liberamos para que te concentres en hacer crecer tu negocio.\r\n\r\nEstos servicios incluyen Informes Financieros, Facturación, Seguimiento de Gastos y Reconciliaciones de Cuentas."
   },
   "Italian": {
     "s_title": "Contabilità",
     "s_name": "Servizi di Contabilità",
     "s_description": "Servizi di contabilità accurati e tempestivi.",
-    "s_image_path": "./images/bookkeeping.jpg",
+    "s_image_path": "./images/Bookkeeping.jpg",
     "s_details": "\r\nI nostri servizi sono progettati per garantire che i tuoi registri finanziari siano mantenuti meticolosamente, accurati e aggiornati.\r\nPermettendoti di concentrarti sulla crescita del tuo business.\r\n\r\nQuesti servizi includono Rendicontazione Finanziaria, Fatturazione, Monitoraggio delle Spese e Riconciliazioni dei Conti."
   },
   "German": {
     "s_title": "Buchhaltung",
     "s_name": "Buchhaltungsdienste",
     "s_description": "Genau Buchhaltungsdienste.",
-    "s_image_path": "./images/bookkeeping.jpg",
+    "s_image_path": "./images/Bookkeeping.jpg",
     "s_details": "\r\nUnsere Dienstleistungen sind darauf ausgelegt sicherzustellen, dass Ihre Finanzunterlagen sorgfältig gepflegt, genau und auf dem neuesten Stand sind.\r\nDamit Sie sich auf den Ausbau Ihres Geschäfts konzentrieren können.\r\n\r\nDiese Dienstleistungen umfassen Finanzberichterstattung, Rechnungsstellung, Ausgabenverfolgung und Kontoabstimmungen."
   },
   "Afrikaans": {
     "s_title": "Boekhouding",
     "s_name": "Boekhoudingsdienste",
     "s_description": "Akkurate en tydige boekhoudingsdienste.",
-    "s_image_path": "./images/bookkeeping.jpg",
+    "s_image_path": "./images/Bookkeeping.jpg",
     "s_details": "\r\nOns dienste is ontwerp om te verseker dat jou finansiële rekords noukeurig onderhou, akkuraat en op datum is.\r\nDaarmee stel jy in staat om op die groei van jou besigheid te fokus.\r\n\r\nHierdie dienste sluit in Finansiële Verslagdoening, Fakturering, Uitgawe-opsporing en Rekonsiliasies."
   },
   "Xhosa": {
     "s_title": "Ukuhlala kweeNcwadi ze-Akhawunti",
     "s_name": "Iinkonzo zokuGcinwa kweeNcwadi",
     "s_description": "Iinkonzo ezichaneke ngokuGcinwa kweeNcwadi zeeAkhawunti.",
-    "s_image_path": "./images/bookkeeping.jpg",
+    "s_image_path": "./images/Bookkeeping.jpg",
     "s_details": "\r\nIinkonzo zethu ziyilelwe ukuqinisekisa ukuba iirekhodi zakho zemali zigcinwa ngokugqibeleleyo, zichanekile, kwaye zihlaziywa.\r\nOku kukuvumela ukuba ugxile ekukhuliseni ishishini lakho.\r\n\r\nEzi nkonzo zibandakanya ukuBika kweMali, ukuHlola iiNxowa-mali, ukuJonga iindleko kunye nokuVuma kweeAkhawunti."
   },
   "Zulu": {
     "s_title": "Ukubalwa kweNcwadi",
     "s_name": "Izinsizakalo zeNcwadi",
     "s_description": "Izinsizakalo zokubalwa kweNcwadi eziqondene ngesikhathi.",
-    "s_image_path": "./images/bookkeeping.jpg",
+    "s_image_path": "./images/Bookkeeping.jpg",
     "s_details": "\r\nIzinsizakalo zethu zakhelwe ukuqinisekisa ukuthi amarekhodi akho ezimali aphethwe kahle kakhulu, anembile futhi anesikhathi.\r\nLokhu kukuvumela ukuthi ugxile ekukhuliseni ibhizinisi lakho.\r\n\r\nLezi zinsizakalo zifaka phakathi Ukubika Kwezimali, Ukubhunga Kwezindleko, Ukulandelela Iziphiso kanye Nokuhamba Kwe-akhawunti."
   },
   "Hindi": {
     "s_title": "लेखांकन",
     "s_name": "लेखांकन सेवाएँ",
     "s_description": "सटीक और समय पर लेखांकन सेवाएँ।",
-    "s_image_path": "./images/bookkeeping.jpg",
+    "s_image_path": "./images/Bookkeeping.jpg",
     "s_details": "\r\nहमारी सेवाएं यह सुनिश्चित करने के लिए डिज़ाइन की गई हैं कि आपके वित्तीय रिकॉर्ड को सावधानीपूर्वक रखा जाए, सटीक और अद्यतित रखा जाए।\r\nइससे आप अपने व्यवसाय के विकास पर ध्यान केंद्रित कर सकते हैं।\r\n\r\nइन सेवाओं में वित्तीय रिपोर्टिंग, चालान, खर्च ट्रैकिंग और खाता सुलह शामिल हैं।"
   }
 }
